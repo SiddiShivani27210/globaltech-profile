@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.navbar-img {
+    width: 50px;
+    height: 50px;
+    padding: 5px;
+}
+
+.navitem {
+    color: white;
+    font-weight: bold;
+}
+
+.banner-section-bg-container {
+    background: linear-gradient(45deg, #f06, #3cf, #f06);
+    height: 100vh;
+}
+
+.image {
+    margin-top: 30px;
+    border-radius: 15px;
+    height: 90%;
+    width: 80%;
+    margin-bottom: 10px;
+}
+
+.heading {
+    color: black;
+    font-family: "Sans-Serif";
+    font-size: 45px;
+    font-weight: 400;
+}
+
+.banner-section {
+    color: #ffffff;
+    font-family: "open-sans";
+    font-size: 35px;
+    font-weight: 500;
+}
+
+.about-me-description {
+    color: black;
+    font-family: cursive;
+    font-size: 25px;
+    padding: 10px;
+}
+
+.about-me-section {
+    background-color: #ffffff;
+}
+
+.aboutme-heading {
+    color: #de371d;
+    font-family: "Copperplate Gothic Light";
+    font-size: 36px;
+    font-weight: bold;
+    padding: 5px;
+}
+
+.skills-section-sub {
+    color: yellow;
+    font-family: ui-serif;
+    font-size: 40px;
+    font-weight: 650;
+    padding: 10px;
+}
+
+.skills-section {
+    background: linear-gradient(rgb(204, 132, 195), violet);
+}
+
+.skills-card {
+    background-color: #ffffff;
+    border-radius: 9px;
+    padding: 10px;
+}
+
+.skills-card-image {
+    width: 64px;
+    height: 64px;
+}
+
+.skills-card-title {
+    color: #323f4b;
+    font-family: "fantasy";
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.project-sec {
+    background-color: #d4dbbd;
+
+}
+
+.projects-heading {
+    color: #335ab5;
+    font-weight: 500;
+    font-family: 'Courier New';
+}
+
+.projects-section-heading {
+    color: #de371d;
+    font-family: "Fantasy";
+    font-size: 36px;
+    font-weight: 500;
+}
+
+.projects-img {
+    width: 100%;
+}
+
+.projects-card {
+    background: rgb(34, 193, 195);
+    border-radius: 8px;
+}
+
+.projects-card-title {
+    color: black;
+    font-family: "Gabriola";
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 5px;
+}
+
+.projects-card-description {
+    color: black;
+    font-family: "Cordia New";
+    font-size: 20px;
+}
+
+.projects-card-link {
+    color: #cced00;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: bold;
+}
+.services-section {
+    background-color: #deaa62;
+}
+.services-section-sub-heading {
+    color: blue;
+    font-family: "serif";
+    font-size: 30px;
+    font-weight: bold;
+}
+.services-card-img{
+    height: 55px;
+    width: 55px;
+}
+.services-card{
+    background: rgb(34, 193, 195);
+    background: linear-gradient(150deg, rgba(34, 193, 192, 1) 0%, rgba(143, 222, 217, 1) 0%, rgba(255, 255, 255, 1) 48%, rgba(231, 134, 226, 1) 100%);
+    border-radius: 8px;
+    padding: 20px;
+}
+.services-card-title{
+     color: brown;
+    font-family: "Cordia New";
+    font-size: 24px;
+    font-weight: bold;
+}
+.services-des{
+    color: black;
+    font-family: "Fantasy";
+    font-size: 20px;
+}
